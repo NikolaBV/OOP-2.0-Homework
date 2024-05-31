@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programming\\C#\\AreanGame\\AreanGame\\ArenaGame\\ArenaGame.csproj",
+      "projectUniqueName": "E:\\Programming\\C#\\OOP-2.0-Homework\\ArenaGame\\ArenaGame.csproj",
       "projectName": "ArenaGame",
-      "projectPath": "E:\\Programming\\C#\\AreanGame\\AreanGame\\ArenaGame\\ArenaGame.csproj",
+      "projectPath": "E:\\Programming\\C#\\OOP-2.0-Homework\\ArenaGame\\ArenaGame.csproj",
       "packagesPath": "C:\\Users\\nikol\\.nuget\\packages\\",
-      "outputPath": "E:\\Programming\\C#\\AreanGame\\AreanGame\\ArenaGame\\obj\\",
+      "outputPath": "E:\\Programming\\C#\\OOP-2.0-Homework\\ArenaGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nikol\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programming\\C#\\AreanGame\\AreanGame\\WinFormArenaGame\\WinFormArenaGame.csproj": {}
+    "E:\\Programming\\C#\\OOP-2.0-Homework\\WinFormArenaGame\\WinFormArenaGame.csproj": {}
   },
   "projects": {
-    "E:\\Programming\\C#\\AreanGame\\AreanGame\\ArenaGame\\ArenaGame.csproj": {
+    "E:\\Programming\\C#\\OOP-2.0-Homework\\ArenaGame\\ArenaGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programming\\C#\\AreanGame\\AreanGame\\ArenaGame\\ArenaGame.csproj",
+        "projectUniqueName": "E:\\Programming\\C#\\OOP-2.0-Homework\\ArenaGame\\ArenaGame.csproj",
         "projectName": "ArenaGame",
-        "projectPath": "E:\\Programming\\C#\\AreanGame\\AreanGame\\ArenaGame\\ArenaGame.csproj",
+        "projectPath": "E:\\Programming\\C#\\OOP-2.0-Homework\\ArenaGame\\ArenaGame.csproj",
         "packagesPath": "C:\\Users\\nikol\\.nuget\\packages\\",
-        "outputPath": "E:\\Programming\\C#\\AreanGame\\AreanGame\\ArenaGame\\obj\\",
+        "outputPath": "E:\\Programming\\C#\\OOP-2.0-Homework\\ArenaGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nikol\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "E:\\Programming\\C#\\AreanGame\\AreanGame\\WinFormArenaGame\\WinFormArenaGame.csproj": {
+    "E:\\Programming\\C#\\OOP-2.0-Homework\\WinFormArenaGame\\WinFormArenaGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programming\\C#\\AreanGame\\AreanGame\\WinFormArenaGame\\WinFormArenaGame.csproj",
+        "projectUniqueName": "E:\\Programming\\C#\\OOP-2.0-Homework\\WinFormArenaGame\\WinFormArenaGame.csproj",
         "projectName": "WinFormArenaGame",
-        "projectPath": "E:\\Programming\\C#\\AreanGame\\AreanGame\\WinFormArenaGame\\WinFormArenaGame.csproj",
+        "projectPath": "E:\\Programming\\C#\\OOP-2.0-Homework\\WinFormArenaGame\\WinFormArenaGame.csproj",
         "packagesPath": "C:\\Users\\nikol\\.nuget\\packages\\",
-        "outputPath": "E:\\Programming\\C#\\AreanGame\\AreanGame\\WinFormArenaGame\\obj\\",
+        "outputPath": "E:\\Programming\\C#\\OOP-2.0-Homework\\WinFormArenaGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nikol\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "E:\\Programming\\C#\\AreanGame\\AreanGame\\ArenaGame\\ArenaGame.csproj": {
-                "projectPath": "E:\\Programming\\C#\\AreanGame\\AreanGame\\ArenaGame\\ArenaGame.csproj"
+              "E:\\Programming\\C#\\OOP-2.0-Homework\\ArenaGame\\ArenaGame.csproj": {
+                "projectPath": "E:\\Programming\\C#\\OOP-2.0-Homework\\ArenaGame\\ArenaGame.csproj"
               }
             }
           }
